@@ -1,0 +1,46 @@
+name: Update Turkey TV Playlist + EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 04:30 UTC = 07:30 Türkiye
+    - cron: "30 4 * * *"
+
+concurrency:
+  group: update-turkey-tv
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Build curated Turkish + English playlist
+        run: python build_playlist.py
+
+      - name: Build Turkish XMLTV EPG
+        run: python build_epg.py
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add turkiye-tv.m3u playlist-report.csv turkiye-epg.xml turkiye-epg.xml.gz match-report.csv
+          if git diff --cached --quiet; then
+            echo "No generated-file changes to commit."
+          else
+            git commit -m "Update curated IPTV playlist and EPG"
+            git push
+          fi

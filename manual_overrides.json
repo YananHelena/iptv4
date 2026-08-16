@@ -1,0 +1,35 @@
+{
+  "_README": {
+    "note": "These are explicit user-provided exceptions. They are NOT sourced from iptv-org and are intentionally limited to channels the user asked to test/use. The builder uses 'primary'. 'backup' is retained only for easy manual switching."
+  },
+  "ShowTV.tr": {
+    "name": "Show TV",
+    "primary": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558",
+    "backup": [],
+    "logo": "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",
+    "group": "Ulusal"
+  },
+  "TLC.tr": {
+    "name": "TLC",
+    "primary": "https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469",
+    "backup": [
+      "http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8"
+    ],
+    "logo": "http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png",
+    "group": "Eğlence"
+  },
+  "DMAX.tr": {
+    "name": "DMAX",
+    "primary": "http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8",
+    "backup": [],
+    "logo": "http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png",
+    "group": "Eğlence"
+  },
+  "SozcuTV.tr": {
+    "name": "Sözcü TV",
+    "primary": "http://live.tv-youtube.workers.dev/?ID=UCOulx_rep5O4i9y6AyDqVvw",
+    "backup": [],
+    "logo": "https://yt3.ggpht.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ",
+    "group": "Haber"
+  }
+}

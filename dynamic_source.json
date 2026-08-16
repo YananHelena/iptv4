@@ -1,0 +1,49 @@
+{
+  "url": "https://tinyurl.com/ByteFixRepairs2026",
+  "description": "Dynamic secondary M3U. Only explicitly allowlisted free Turkish channels below may be imported. Nothing else from this playlist is added.",
+  "channels": {
+    "ShowTV.tr": {
+      "name": "Show TV",
+      "ids": [
+        "SHOW.TV.HD.tr",
+        "ShowTV.tr"
+      ],
+      "aliases": [
+        "Show TV"
+      ]
+    },
+    "TLC.tr": {
+      "name": "TLC",
+      "ids": [
+        "TLC.HD.tr",
+        "TLC.tr"
+      ],
+      "aliases": [
+        "TLC"
+      ]
+    },
+    "DMAX.tr": {
+      "name": "DMAX",
+      "ids": [
+        "DMAX.HD.tr",
+        "DMAX.tr"
+      ],
+      "aliases": [
+        "DMAX"
+      ]
+    },
+    "SozcuTV.tr": {
+      "name": "Sözcü TV",
+      "ids": [
+        "SozcuTV.tr",
+        "SOZCU.TV.tr",
+        "SÖZCÜ.TV.tr"
+      ],
+      "aliases": [
+        "Sözcü TV",
+        "SÖZCÜ TV",
+        "Sozcu TV"
+      ]
+    }
+  }
+}

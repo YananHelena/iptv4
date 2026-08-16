@@ -1,0 +1,223 @@
+{
+  "description": "Compact useful English-language selection. Every stream URL is selected dynamically from iptv-org languages/eng.m3u each time GitHub Actions runs. If an entry is absent from the current iptv-org English playlist, it is simply omitted.",
+  "channels": [
+    {
+      "number": 901,
+      "name": "FIFA+",
+      "ids": [
+        "FIFAPlus.uk@English"
+      ],
+      "base_ids": [
+        "FIFAPlus.uk"
+      ],
+      "aliases": [
+        "FIFA Plus"
+      ],
+      "group": "Yabancı | Spor"
+    },
+    {
+      "number": 902,
+      "name": "beIN SPORTS XTRA",
+      "ids": [
+        "beINSPORTSXTRA.us@SD"
+      ],
+      "base_ids": [
+        "beINSPORTSXTRA.us"
+      ],
+      "aliases": [
+        "beIN Sports XTRA"
+      ],
+      "group": "Yabancı | Spor"
+    },
+    {
+      "number": 903,
+      "name": "NBC Sports NOW",
+      "ids": [
+        "NBCSportsNOW.us@SD"
+      ],
+      "base_ids": [
+        "NBCSportsNOW.us"
+      ],
+      "aliases": [
+        "NBC Sports NOW"
+      ],
+      "group": "Yabancı | Spor"
+    },
+    {
+      "number": 904,
+      "name": "CBS Sports Golazo Network",
+      "ids": [
+        "CBSSportsGolazoNetwork.us@SD"
+      ],
+      "base_ids": [
+        "CBSSportsGolazoNetwork.us"
+      ],
+      "aliases": [
+        "CBS Sports Golazo Network"
+      ],
+      "group": "Yabancı | Spor"
+    },
+    {
+      "number": 905,
+      "name": "NBC USA",
+      "ids": [
+        "NBC.us@East"
+      ],
+      "base_ids": [
+        "NBC.us"
+      ],
+      "aliases": [
+        "NBC",
+        "NBC East"
+      ],
+      "group": "Yabancı | Etkinlik"
+    },
+    {
+      "number": 906,
+      "name": "9Gem Australia",
+      "ids": [
+        "9Gem.au"
+      ],
+      "base_ids": [
+        "9Gem.au"
+      ],
+      "aliases": [
+        "9 Gem"
+      ],
+      "group": "Yabancı | Etkinlik"
+    },
+    {
+      "number": 911,
+      "name": "BBC News",
+      "ids": [
+        "BBCNews.uk@Europe",
+        "BBCNews.uk@SD"
+      ],
+      "base_ids": [
+        "BBCNews.uk"
+      ],
+      "aliases": [
+        "BBC News Europe"
+      ],
+      "group": "Yabancı | Haber"
+    },
+    {
+      "number": 912,
+      "name": "Sky News",
+      "ids": [
+        "SkyNews.uk@SD",
+        "SkyNews.uk"
+      ],
+      "base_ids": [
+        "SkyNews.uk"
+      ],
+      "aliases": [
+        "Sky News UK"
+      ],
+      "group": "Yabancı | Haber"
+    },
+    {
+      "number": 913,
+      "name": "France 24 English",
+      "ids": [
+        "France24.fr@English"
+      ],
+      "base_ids": [
+        "France24.fr"
+      ],
+      "aliases": [
+        "France 24 English"
+      ],
+      "group": "Yabancı | Haber"
+    },
+    {
+      "number": 914,
+      "name": "DW English",
+      "ids": [
+        "DW.de@English"
+      ],
+      "base_ids": [
+        "DW.de"
+      ],
+      "aliases": [
+        "Deutsche Welle English",
+        "DW"
+      ],
+      "group": "Yabancı | Haber"
+    },
+    {
+      "number": 915,
+      "name": "NBC News NOW",
+      "ids": [
+        "NBCNewsNOW.us@SD"
+      ],
+      "base_ids": [
+        "NBCNewsNOW.us"
+      ],
+      "aliases": [
+        "NBC News Now"
+      ],
+      "group": "Yabancı | Haber"
+    },
+    {
+      "number": 916,
+      "name": "CBS News 24/7",
+      "ids": [
+        "CBSNews247.us@SD"
+      ],
+      "base_ids": [
+        "CBSNews247.us"
+      ],
+      "aliases": [
+        "CBS News 24/7",
+        "CBS News"
+      ],
+      "group": "Yabancı | Haber"
+    },
+    {
+      "number": 917,
+      "name": "ABC News Australia",
+      "ids": [
+        "ABCNews.au@Sydney"
+      ],
+      "base_ids": [
+        "ABCNews.au"
+      ],
+      "aliases": [
+        "ABC News Australia"
+      ],
+      "group": "Yabancı | Haber"
+    },
+    {
+      "number": 918,
+      "name": "CNA",
+      "ids": [
+        "CNA.sg@SD",
+        "CNA.sg"
+      ],
+      "base_ids": [
+        "CNA.sg"
+      ],
+      "aliases": [
+        "Channel NewsAsia",
+        "Channel News Asia"
+      ],
+      "group": "Yabancı | Haber"
+    },
+    {
+      "number": 931,
+      "name": "Arirang TV",
+      "ids": [
+        "ArirangTV.kr@SD",
+        "ArirangTV.kr"
+      ],
+      "base_ids": [
+        "ArirangTV.kr"
+      ],
+      "aliases": [
+        "Arirang"
+      ],
+      "group": "Yabancı | Kültür"
+    }
+  ]
+}
