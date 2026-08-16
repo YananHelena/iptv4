@@ -1,0 +1,26 @@
+﻿playlist_name,playlist_tvg_id,original_tvg_id,matched,source,source_channel_id,source_display_name,score,programmes,generated_playlist_id
+Show TV,SHOW.TV.HD.tr,SHOW.TV.HD.tr,yes,epgshare-tr3,SHOW.TV.tr,SHOW TV,1.000,39,no
+TLC,TLC.HD.tr,TLC.HD.tr,yes,epgshare-tr3,TLC.tr,TLC,1.000,127,no
+DMAX,DMAX.HD.tr,DMAX.HD.tr,yes,epgshare-tr3,DMAX.HD.tr,DMAX HD,1.000,121,no
+CNBC-e,CNBCe.tr@SD,CNBCe.tr@SD,yes,epgshare-tr3,CNBC-e.tr,CNBC-e,1.000,140,no
+Ülke TV,UlkeTV.tr@SD,UlkeTV.tr@SD,yes,epgshare-tr3,ÜLKE.TV.tr,ÜLKE TV,1.000,68,no
+NTV,NTV.tr@SD,NTV.tr@SD,yes,epgshare-tr3,NTV.HD.tr,NTV HD,1.000,287,no
+Flash Haber,FlashHaberTV.tr@SD,FlashHaberTV.tr@SD,yes,epgshare-tr3,FLASH.HABER.TV.tr,FLASH HABER TV,1.000,403,no
+Sözcü TV,SozcuTV.tr,SozcuTV.tr,yes,epgshare-tr3,SÖZCÜ.TV.tr,SÖZCÜ TV,1.000,44,no
+VAV TV,VavTV.tr@SD,VavTV.tr@SD,yes,epgshare-tr3,VAV.TV.tr,VAV TV,1.000,85,no
+FB TV,FBTV.tr@SD,FBTV.tr@SD,yes,epgshare-tr3,FB.TV.tr,FB TV,1.000,113,no
+FIFA+,FIFAPlus.uk@English,FIFAPlus.uk@English,no,foreign_epg_not_configured,,,0.000,0,no
+beIN SPORTS XTRA,beINSPORTSXTRA.us@SD,beINSPORTSXTRA.us@SD,no,foreign_epg_not_configured,,,0.000,0,no
+NBC Sports NOW,NBCSportsNOW.us@SD,NBCSportsNOW.us@SD,no,foreign_epg_not_configured,,,0.000,0,no
+CBS Sports Golazo Network,CBSSportsGolazoNetwork.us@SD,CBSSportsGolazoNetwork.us@SD,no,foreign_epg_not_configured,,,0.000,0,no
+NBC USA,NBC.us@East,NBC.us@East,no,foreign_epg_not_configured,,,0.000,0,no
+9Gem Australia,9Gem.au@Sydney,9Gem.au@Sydney,no,foreign_epg_not_configured,,,0.000,0,no
+BBC News,BBCNews.uk@Europe,BBCNews.uk@Europe,no,foreign_epg_not_configured,,,0.000,0,no
+Sky News,SkyNews.ie@SD,SkyNews.ie@SD,no,foreign_epg_not_configured,,,0.000,0,no
+France 24 English,France24.fr@English,France24.fr@English,no,foreign_epg_not_configured,,,0.000,0,no
+DW English,DW.de@English,DW.de@English,no,foreign_epg_not_configured,,,0.000,0,no
+NBC News NOW,NBCNewsNOW.us@SD,NBCNewsNOW.us@SD,no,foreign_epg_not_configured,,,0.000,0,no
+CBS News 24/7,CBSNews247.us@SD,CBSNews247.us@SD,no,foreign_epg_not_configured,,,0.000,0,no
+ABC News Australia,ABCNews.au@Sydney,ABCNews.au@Sydney,no,foreign_epg_not_configured,,,0.000,0,no
+CNA,CNA.sg@SD,CNA.sg@SD,no,foreign_epg_not_configured,,,0.000,0,no
+Arirang TV,ArirangTV.kr@SD,ArirangTV.kr@SD,no,foreign_epg_not_configured,,,0.000,0,no
