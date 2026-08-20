@@ -17,7 +17,7 @@ turkish,15,34,Kanal 7,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
 turkish,16,35,A2,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
 turkish,17,36,Beyaz TV,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
 turkish,18,37,tv100,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
-turkish,19,38,Ülke TV,added_iptv_org,iptv-org tur.m3u,name,167,UlkeTV.tr@SD,Ulke TV,http://217.174.229.138:8000/play/a0el
+turkish,19,38,Ülke TV,added_iptv_org,iptv-org tur.m3u,name,168,UlkeTV.tr@SD,Ulke TV,http://217.174.229.138:8000/play/a0el
 turkish,20,39,TVNET,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
 turkish,21,40,24 TV,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
 turkish,22,41,NTV,added_iptv_org,iptv-org tur.m3u,name,104,NTV.tr@SD,NTV,https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
@@ -44,7 +44,7 @@ turkish,42,62,KRT,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
 turkish,43,63,Bengü Türk,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
 turkish,44,65,TV4,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
 turkish,45,66,TRT 2,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
-turkish,46,67,VAV TV,added_iptv_org,iptv-org tur.m3u,name,170,VavTV.tr@SD,Vav TV,https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+turkish,46,67,VAV TV,added_iptv_org,iptv-org tur.m3u,name,171,VavTV.tr@SD,Vav TV,https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 turkish,47,68,Diyanet TV,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
 turkish,48,69,Akit TV,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
 turkish,49,75,HT Spor,not_found_in_iptv_org_tur,iptv-org tur.m3u,not_found,,,,
@@ -88,7 +88,7 @@ foreign,4,904,CBS Sports Golazo Network,added_iptv_org,iptv-org eng.m3u,exact:CB
 foreign,5,905,NBC USA,added_iptv_org,iptv-org eng.m3u,exact:NBC.us@East,1631,NBC.us@East,NBC (1080p),http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 foreign,6,906,9Gem Australia,added_iptv_org,iptv-org eng.m3u,base:9Gem.au,20,9Gem.au@Sydney,9Gem (720p) [Geo-blocked],https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 foreign,7,911,BBC News,added_iptv_org,iptv-org eng.m3u,exact:BBCNews.uk@Europe,290,BBCNews.uk@Europe,BBC News (1080p) [Geo-blocked],https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-foreign,8,912,Sky News,added_iptv_org,iptv-org eng.m3u,name,2279,SkyNews.ie@SD,Sky News,https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+foreign,8,912,Sky News,added_iptv_org,iptv-org eng.m3u,name,2282,SkyNews.ie@SD,Sky News,https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 foreign,9,913,France 24 English,added_iptv_org,iptv-org eng.m3u,exact:France24.fr@English,1005,France24.fr@English,France 24 English (1080p),https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 foreign,10,914,DW English,added_iptv_org,iptv-org eng.m3u,exact:DW.de@English,863,DW.de@English,DW English (1080p),https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 foreign,11,915,NBC News NOW,added_iptv_org,iptv-org eng.m3u,exact:NBCNewsNOW.us@SD,1653,NBCNewsNOW.us@SD,NBC News NOW (1080p),https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
