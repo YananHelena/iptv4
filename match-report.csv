@@ -1,14 +1,14 @@
 ﻿playlist_name,playlist_tvg_id,original_tvg_id,matched,source,source_channel_id,source_display_name,score,programmes,generated_playlist_id
 Show TV,SHOW.TV.HD.tr,SHOW.TV.HD.tr,yes,epgshare-tr3,SHOW.TV.HD.tr,SHOW TV HD,1.000,39,no
-TLC,TLC.HD.tr,TLC.HD.tr,yes,epgshare-tr3,TLC.tr,TLC,1.000,134,no
-DMAX,DMAX.HD.tr,DMAX.HD.tr,yes,epgshare-tr3,DMAX.HD.tr,DMAX HD,1.000,122,no
-CNBC-e,CNBCe.tr@SD,CNBCe.tr@SD,yes,epgshare-tr3,CNBC-E.tr,CNBC-E,1.000,121,no
-Ülke TV,UlkeTV.tr@SD,UlkeTV.tr@SD,yes,epgshare-tr3,ÜLKE.TV.HD.tr,ÜLKE TV HD,1.000,66,no
-NTV,NTV.tr@SD,NTV.tr@SD,yes,epgshare-tr3,NTV.HD.tr,NTV HD,1.000,279,no
+TLC,TLC.HD.tr,TLC.HD.tr,yes,epgshare-tr3,TLC.tr,TLC,1.000,133,no
+DMAX,DMAX.HD.tr,DMAX.HD.tr,yes,epgshare-tr3,DMAX.HD.tr,DMAX HD,1.000,120,no
+CNBC-e,CNBCe.tr@SD,CNBCe.tr@SD,yes,epgshare-tr3,CNBC-E.tr,CNBC-E,1.000,126,no
+Ülke TV,UlkeTV.tr@SD,UlkeTV.tr@SD,yes,epgshare-tr3,ÜLKE.TV.HD.tr,ÜLKE TV HD,1.000,67,no
+NTV,NTV.tr@SD,NTV.tr@SD,yes,epgshare-tr3,NTV.HD.tr,NTV HD,1.000,280,no
 Flash Haber,FlashHaberTV.tr@SD,FlashHaberTV.tr@SD,yes,epgshare-tr3,FLASH.HABER.tr,FLASH HABER,1.000,400,no
 Sözcü TV,SozcuTV.tr,SozcuTV.tr,yes,epgshare-tr3,SÖZCÜ.TV.tr,SÖZCÜ TV,1.000,43,no
 VAV TV,VavTV.tr@SD,VavTV.tr@SD,yes,epgshare-tr3,VAV.TV.tr,VAV TV,1.000,80,no
-FB TV,FBTV.tr@SD,FBTV.tr@SD,yes,epgshare-tr3,FB.TV.tr,FB TV,1.000,119,no
+FB TV,FBTV.tr@SD,FBTV.tr@SD,yes,epgshare-tr3,FB.TV.tr,FB TV,1.000,116,no
 FIFA+,FIFAPlus.uk@English,FIFAPlus.uk@English,no,foreign_epg_not_configured,,,0.000,0,no
 beIN SPORTS XTRA,beINSPORTSXTRA.us@SD,beINSPORTSXTRA.us@SD,no,foreign_epg_not_configured,,,0.000,0,no
 NBC Sports NOW,NBCSportsNOW.us@SD,NBCSportsNOW.us@SD,no,foreign_epg_not_configured,,,0.000,0,no
